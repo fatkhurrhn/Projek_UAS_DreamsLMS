@@ -44,4 +44,20 @@ Pada Pembuatan Aplikasi Sistem Informasi Kampus atau DreamsLMS kami menggunakan 
 ## Fitur-fitur dalam Aplikasi DreamsLMS
 
 <img src="https://fatkhur03.github.io/1.png">
+<img src="https://fatkhur03.github.io/2.png">
+<img src="https://fatkhur03.github.io/3.png">
+<img src="https://fatkhur03.github.io/4.png">
+<img src="https://fatkhur03.github.io/5.png">
+<img src="https://fatkhur03.github.io/6.png">
+<img src="https://fatkhur03.github.io/7.png">
+<img src="https://fatkhur03.github.io/8.png">
+<img src="https://fatkhur03.github.io/9.png">
+<img src="https://fatkhur03.github.io/10.png">
+<img src="https://fatkhur03.github.io/11.png">
+<img src="https://fatkhur03.github.io/12.png">
+<img src="https://fatkhur03.github.io/13.png">
+<img src="https://fatkhur03.github.io/14.png">
+<img src="https://fatkhur03.github.io/15.png">
+<img src="https://fatkhur03.github.io/16.png">
+<img src="https://fatkhur03.github.io/17.png">
 
