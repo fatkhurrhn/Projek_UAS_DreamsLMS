@@ -43,5 +43,5 @@ Pada Pembuatan Aplikasi Sistem Informasi Kampus atau DreamsLMS kami menggunakan 
 
 ## Fitur-fitur dalam Aplikasi DreamsLMS
 
-<img src="{{ asset('landing') }}/images/1.png">
+<img src="https://fatkhur03.github.io/1.png">
 
