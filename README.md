@@ -43,3 +43,5 @@ Pada Pembuatan Aplikasi Sistem Informasi Kampus atau DreamsLMS kami menggunakan 
 
 ## Fitur-fitur dalam Aplikasi DreamsLMS
 
+<img src="{{ asset('landing') }}/images/1.png">
+
